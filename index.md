@@ -1,6 +1,6 @@
 ## My Quick Static Site
 
-This is a site I build with gh-pages. **Wow**
+This is a site I built with gh-pages. **Wow**
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
