@@ -14,7 +14,7 @@ With the images collated, I needed to extract the text from them. Again, followi
 
 ## Distant Diaries
 
-What was in those .txt files, though? I decided to take a distant approach to the dataset, since 74 diary pages would be a lot to wade through manually. Using Voyant, I input my corpus and generated some results. Given that this is a personal diary, the results were to be expected. Lots of verbs describing Thomas' days, and lots of reference to family and acquaintances. It was clear that the majority of the diary discussed day-to-day life.
+What was in those .txt files, though? I decided to take a distant approach to the dataset, since 74 diary pages would be a lot to wade through manually. Using Voyant, I input my corpus and [generated some results](https://voyant-tools.org/?corpus=dba48a189ff6b3319b6eb394dabefd9f). Given that this is a personal diary, the results were to be expected. Lots of verbs describing Thomas' days, and lots of reference to family and acquaintances. It was clear that the majority of the diary discussed day-to-day life.
 
 However, a closer inspection of some of the trends made me curious. Looking at some of the words that decreased in usage as time went on, I began noticing things. Indoor activities like 'drawing' and 'clarinet' decreased in usage, as did references to 'room,' 'band,' 'carriage,' and 'riding.' What tied these things together?
 
