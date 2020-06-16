@@ -1,6 +1,6 @@
-## Seasons Meetings
+# Seasons Meetings
 
-# Seasonality and the Daily Life of a Nineteenth-Century Lawyer
+### Seasonality and the Daily Life of a Nineteenth-Century Lawyer
 
 I decided to explore the diaries of [Thomas L. Ryan](https://dmr.bsu.edu/digital/collection/RynTms) as he shares a name with my brother and it jumped out at me when I saw it. What follows is a few steps taken to extract, collate, and explore the data found within Thomas' diaries, and a potential path to explore in terms of research.
 
